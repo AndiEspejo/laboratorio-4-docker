@@ -1,0 +1,12 @@
+{
+  "name": "miapp-docker",
+  "version": "1.0.0",
+  "description": "Laboratorio 4 - Contenedores y despliegue con Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
