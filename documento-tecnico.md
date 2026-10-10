@@ -1,6 +1,6 @@
 # Laboratorio 4 - Contenedores y Despliegue con Docker
 
-**Integrantes:** Jefferson Espejo, Mateo Blando
+**Integrantes:** Jefferson Espejo, Mateo Blandón
 **Imagen en Docker Hub:** andresespejo/miapp-docker:v1 (https://hub.docker.com/r/andresespejo/miapp-docker)
 
 ## Descripción técnica
